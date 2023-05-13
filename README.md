@@ -53,3 +53,7 @@
 ・https://docs.github.com/ja/codespaces/developing-in-codespaces/getting-started-with-github-codespaces-for-machine-learning
 
 ・https://github.com/github/codespaces-jupyter
+
+・https://home.hirosaki-u.ac.jp/jupyter/sympy/
+
+・https://core.ac.uk/download/pdf/71906430.pdf
